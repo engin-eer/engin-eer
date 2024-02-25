@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engin</h1>
 <h3 align="center">A computer engineer and mathematician from Turkey</h3>
 
-- 📫 How to reach me **enginaydogdu@protonmail.com**
+- 📫 How to reach me **enginaydogdu@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
